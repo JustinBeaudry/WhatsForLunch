@@ -1,0 +1,16 @@
+{
+  "name": "whats_for_lunch_at_creativelive",
+  "version": "0.1.0",
+  "description": "get lunch menu from emails",
+  "main": "read.js",
+  "dependencies": {
+    "htmlparser2": "^3.8.3",
+    "imap": "^0.8.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'no tests'"
+  },
+  "author": "Justin Beaudry <justin.beaudry@creativelive.com>",
+  "license": "ISC"
+}
